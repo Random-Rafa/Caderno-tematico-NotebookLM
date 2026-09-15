@@ -1,2 +1,2 @@
-# Caderno-tem-tico-NotebookLM-
+# Caderno-tematico-NotebookLM-
 tema: conceitos de Java Script
