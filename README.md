@@ -1,20 +1,20 @@
 # Miniguia-de-estudos-NotebookLM
 tema: conceitos básicos de Java Script
 
-**Índice**
+## **Índice**
 
 1. Contexto e Objetivos
 2. Curadoria de Fontes
 3. Engenharia de Prompts e Ajustes
 4. Miniguia de Estudo
 
-**Contexto e Objetivos**
+## **Contexto e Objetivos**
 
 Neste projeto, decidi aproveitar a oportunidade para melhorar meus estudos quanto aos fundamentos de Java Script, pondo em prática o que estudei sobre engenharia de prompts. 
 Utilizei fontes variadas, desde vídeo aulas até guias de empresas amplamente reconhecidas na área, com a ideia de que a teoria em conjunto com ensino mais didático, formularia uma boa base de dados para um mini guia de estudos.
 Meus principais objetivos com esse material é de consolidar meu aprendizado, usando o NotebookLM ( Gemini LM ) como ferramenta, utilizando de suas opções de estudo para maximizar as maneiras de aprendizagem, com intenção de encontrar a ideal para respectivas situações.
 
-**Curadoria de Fontes**
+## **Curadoria de Fontes**
 
 ( "O manual de JavaScript para iniciantes" - FreeCodeCamp )  
 https://www.freecodecamp.org/portuguese/news/o-manual-de-javascript-para-iniciantes/  
@@ -28,7 +28,7 @@ https://youtu.be/IuCZPOk5EXo?si=JV-IpezfW_jIb8RT
 https://youtu.be/RjfhRZXB_U8?si=p55CAzwUXx9TRcld
 https://youtu.be/rvBdC3Ziwg8?si=2ZmbX7OKUvJEQlPh
 
-**Engenharia de Prompts e Ajustes**
+## **Engenharia de Prompts e Ajustes**
 
 1° tentativa   
 "explique os fundamentos de JS. (intro)
@@ -58,7 +58,7 @@ adicione exemplos práticos.(saída)
 evite usar termos de natureza técnica nos exemplos ( pode adiciona-los como curiosidade ).(limitações)"  
 a 2° estava boa, mas não estava tão interligada com o meio em que estou, então adicionei um pouco mais de contexto e consegui um ótimo resultado.
 
-**Miniguia de Estudo**
+## **Miniguia de Estudo**
 
 "Este **mini guia de estudos** foi estruturado para quem já tem noção de lógica de programação e de outras linguagens, focando nas particularidades e nos conceitos centrais do **JavaScript**.
 
