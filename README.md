@@ -2,20 +2,23 @@
 tema: conceitos básicos de Java Script
 
 **Índice**
+
 1. Contexto e Objetivos
 2. Curadoria de Fontes
 3. Engenharia de Prompts e Ajustes
 4. Miniguia de Estudo
 
 **Contexto e Objetivos**
+
 Neste projeto, decidi aproveitar a oportunidade para melhorar meus estudos quanto aos fundamentos de Java Script, pondo em prática o que estudei sobre engenharia de prompts. 
 Utilizei fontes variadas, desde vídeo aulas até guias de empresas amplamente reconhecidas na área, com a ideia de que a teoria em conjunto com ensino mais didático, formularia uma boa base de dados para um mini guia de estudos.
 Meus principais objetivos com esse material é de consolidar meu aprendizado, usando o NotebookLM ( Gemini LM ) como ferramenta, utilizando de suas opções de estudo para maximizar as maneiras de aprendizagem, com intenção de encontrar a ideal para respectivas situações.
 
 **Curadoria de Fontes**
-"O manual de JavaScript para iniciantes" - FreeCodeCamp
+
+( "O manual de JavaScript para iniciantes" - FreeCodeCamp )
 https://www.freecodecamp.org/portuguese/news/o-manual-de-javascript-para-iniciantes/
-"Noções básicas de JavaScript" - MDN Web Docs
+( "Noções básicas de JavaScript" - MDN Web Docs )
 https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Getting_started/Your_first_website/Adding_interactivity
 ( "Curso de Javascript 🟨" - Rafaella Ballerini )
 https://youtu.be/Z7mnxUI4u00?si=GvQTjdbHEaWGUivH
@@ -261,4 +264,12 @@ em seguida contextualize e explique de forma didática,
 adicione exemplos práticos.
 evite usar termos de natureza técnica nos exemplos e explicações (pode adiciona-los como curiosidade)"
 
+**Prompt utilizado:**
+"explique os fundamentos de JS.
+um mini guia para estudos para alguém que está tendo os primeiros contatos com a linguagem.
+separe os conteúdos por módulos,
+faça uma lista com os caracteres,
+em seguida contextualize e explique de forma didática,
+adicione exemplos práticos.
+evite usar termos de natureza técnica nos exemplos e explicações (pode adiciona-los como curiosidade)"
 
