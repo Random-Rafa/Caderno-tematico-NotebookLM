@@ -16,11 +16,11 @@ Meus principais objetivos com esse material é de consolidar meu aprendizado, us
 
 **Curadoria de Fontes**
 
-( "O manual de JavaScript para iniciantes" - FreeCodeCamp )
-https://www.freecodecamp.org/portuguese/news/o-manual-de-javascript-para-iniciantes/
-( "Noções básicas de JavaScript" - MDN Web Docs )
-https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Getting_started/Your_first_website/Adding_interactivity
-( "Curso de Javascript 🟨" - Rafaella Ballerini )
+( "O manual de JavaScript para iniciantes" - FreeCodeCamp )  
+https://www.freecodecamp.org/portuguese/news/o-manual-de-javascript-para-iniciantes/  
+( "Noções básicas de JavaScript" - MDN Web Docs )  
+https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Getting_started/Your_first_website/Adding_interactivity  
+( "Curso de Javascript 🟨" - Rafaella Ballerini )  
 https://youtu.be/Z7mnxUI4u00?si=GvQTjdbHEaWGUivH
 https://youtu.be/kwOPAQJDGyI?si=hP2_Q_TbGVfgDYcr
 https://youtu.be/c-D7uV2CiFQ?si=tIFRuyg-1TQxgFcN
@@ -30,32 +30,32 @@ https://youtu.be/rvBdC3Ziwg8?si=2ZmbX7OKUvJEQlPh
 
 **Engenharia de Prompts e Ajustes**
 
-1° tentativa 
+1° tentativa   
 "explique os fundamentos de JS. (intro)
 separe os conteúdos por módulos,
 faça uma lista com os caracteres,
 em seguida contextualize e explique de forma didatica,
-adicione exemplos práticos.(saída)"
+adicione exemplos práticos.(saída)"  
 inicialmente fiz apenas um prompt simples, pedindo o mínimo necessário para conseguir a resposta que queria, utilizando apenas uma introdução, acompanhada por um modelo de saída simples.  
 
-2° tentativa 
+2° tentativa  
 "explique os fundamentos de JS.(intro)
 um mini guia para estudos para alguém que está tendo os primeiros contatos com a linguagem.(contexto)
 separe os conteúdos por módulos,
 faça uma lista com os caracteres,
 em seguida contextualize e explique de forma didática,
 adicione exemplos práticos.(saída)
-evite usar termos de natureza técnica nos exemplos e explicações (pode adiciona-los como curiosidade).(limitações)"
+evite usar termos de natureza técnica nos exemplos e explicações (pode adiciona-los como curiosidade).(limitações)"  
 aqui já havia percebido que poderia melhorar a reposta, adicionei mais tópicos a estrutura do meu prompt, querendo refinar a reposta, buscando explicações mais claras, e uma organização um pouco diferente, tirando os termos técnicos das explicações e adicionando abaixo, com uma explicação mais detalhada. 
 
-3° tentativa(final)
+3° tentativa(final)  
 "explique os fundamentos de JS.(intro)
 um mini guia para estudos para alguém que está tendo os primeiros contatos com a linguagem, mas já tenha certo conhecimento de outras e Logica de programação.(contexto)
 separe os conteúdos por módulos,
 faça uma lista com os caracteres,
 em seguida contextualize e explique de forma didática,
 adicione exemplos práticos.(saída)
-evite usar termos de natureza técnica nos exemplos ( pode adiciona-los como curiosidade ).(limitações)"
+evite usar termos de natureza técnica nos exemplos ( pode adiciona-los como curiosidade ).(limitações)"  
 a 2° estava boa, mas não estava tão interligada com o meio em que estou, então adicionei um pouco mais de contexto e consegui um ótimo resultado.
 
 **Miniguia de Estudo**
